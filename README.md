@@ -1,6 +1,7 @@
 # ML_Learn
 ## LR 1
 ### Функции
+
 Аналитическое решение
 функция растригина:
 - best x: 0 0
@@ -8,7 +9,9 @@
 
 Функция Стыбинского-Танга:
 - best x: -2.9 -2.9
-- best f(x): ~ (39 * dims)
+- best f(x): ~ (39 * 2)
+
+![Функции](https://github.com/FastSnake0/ML_learn/blob/main/refs/funcs.png)
 
 ### GD
 
@@ -18,8 +21,10 @@
 
 Функция Стыбинского-Танга:
 - best x: 2.74680274   2.74680277
-- best f(x): -50.05889331 
+- best f(x): -50.05889331
+
 ![Обычный gd](https://github.com/FastSnake0/ML_learn/blob/main/refs/gd.png)
+
 ### Momentum GD
 
 функция растригина:
@@ -28,8 +33,10 @@
 
 Функция Стыбинского-Танга:
 - best x: -2.90353403   2.74680274
-- best f(x): -64.19561236 
+- best f(x): -64.19561236
+
 ![Обычный gd](https://github.com/FastSnake0/ML_learn/blob/main/refs/mgd.png)
+
 ### ADAM
 
 функция растригина:
@@ -39,4 +46,7 @@
 Функция Стыбинского-Танга:
 - best x: -2.90353403  -2.903534  
 - best f(x): -78.33233141
+
 ![Обычный gd](https://github.com/FastSnake0/ML_learn/blob/main/refs/adam.png)
+
+## LR 2
